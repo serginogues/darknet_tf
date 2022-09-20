@@ -49,7 +49,7 @@ python detect.py
 --save False # optional, if True saves img or video
 ```
 
-## Evaluate
+## ``evaluate.py``
 First generate predictions (which are saved at ``darknet_tf/mAP/``):
 ```bash
 python evaluate.py
