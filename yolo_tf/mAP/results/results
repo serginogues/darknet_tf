@@ -1,0 +1,11 @@
+
+# Number of predicted objects per class
+Baby_carriage: 3 (tp:1, fp:2)
+Backpack: 40 (tp:16, fp:24)
+Train: 120 (tp:115, fp:5)
+Bicycle: 2 (tp:2, fp:0)
+Handbag: 28 (tp:9, fp:19)
+License_plate: 30 (tp:26, fp:4)
+Omu: 7 (tp:3, fp:4)
+Person: 419 (tp:355, fp:64)
+Suitcase: 5 (tp:4, fp:1)
