@@ -1,5 +1,7 @@
 # darknet_tf
 
+Code refactored and enhanced from [github.com/hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
+
 ## ``convert.py``
 You can convert a pretrained Darknet model to Tensorflow with:
 ```bash
@@ -58,7 +60,3 @@ python evaluate.py
 --ignore 4, 8 # optional, list of class id to ignore
 --gen_pred False # if True, loads tf model and generates predictions
 ```
-
-## References
-Code based on [github.com/hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
-
